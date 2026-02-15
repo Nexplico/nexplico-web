@@ -62,5 +62,5 @@ We are always looking for talented firmware engineers and IC design professional
 
 <p align="center">
   © 2026 Nexplico Ltd. All rights reserved. <br>
-  Tokyo, Japan | Hsinchu, Taiwan
+  Osaka, Japan
 </p>
