@@ -54,10 +54,9 @@ We are always looking for talented firmware engineers and IC design professional
 
 私たちは、優れたファームウェアエンジニアおよびIC設計のプロフェッショナルを常に募集しています。ビジネス提携や採用に関するお問い合わせはお気軽にどうぞ。
 
-- **Website:** [https://nexplico.com](https://nexplico.com)
-- **LinkedIn:** [Nexplico Ltd. Careers](https://www.linkedin.com/company/nexplico-ltd/)
-- **Email:**[Email](mailto:info@nexplico.com)
-
+- 🌐 **Website:** [https://nexplico.com](https://nexplico.com)
+- 💼 **LinkedIn:** [Nexplico Ltd. Careers](https://www.linkedin.com/company/nexplico-ltd/)
+- ✉️ **Email:** [Contact Form](https://nexplico.com#contact)
 
 ---
 
