@@ -50,9 +50,9 @@
 
 ## 📬 Contact | お問い合わせ
 
-We are always looking for talented firmware engineers and IC design professionals. Feel free to reach out for collaborations or career opportunities.
+We are always looking for talented individuals to join our mission. Feel free to reach out for collaborations or career opportunities.
 
-私たちは、優れたファームウェアエンジニアおよびIC設計のプロフェッショナルを常に募集しています。ビジネス提携や採用に関するお問い合わせはお気軽にどうぞ。
+私たちは、共に挑戦し成長できる優秀な人材を常に募集しています。ビジネス提携や採用に関するお問い合わせはお気軽にどうぞ。
 
 - 🌐 **Website:** [https://nexplico.com](https://nexplico.com)
 - 💼 **LinkedIn:** [Nexplico Ltd. Careers](https://www.linkedin.com/company/nexplico-ltd/)
