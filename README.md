@@ -56,7 +56,8 @@ We are always looking for talented firmware engineers and IC design professional
 
 - **Website:** [https://nexplico.com](https://nexplico.com)
 - **LinkedIn:** [Nexplico Ltd. Careers](https://www.linkedin.com/company/nexplico-ltd/)
-- **Email:** Contact us via our official website form.
+- **Email:**[Email](mailto:info@nexplico.com)
+
 
 ---
 
