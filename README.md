@@ -55,7 +55,7 @@ We are always looking for talented individuals to join our mission. Feel free to
 私たちは、共に挑戦し成長できる優秀な人材を常に募集しています。ビジネス提携や採用に関するお問い合わせはお気軽にどうぞ。
 
 - 🌐 **Website:** [https://nexplico.com](https://nexplico.com)
-- 💼 **LinkedIn:** [Nexplico Ltd. Careers](https://www.linkedin.com/company/nexplico-ltd/)
+- 💼 **Career Platforms:** [engage (Japan)](https://en-gage.net/nexplico_jobs) | [LinkedIn](https://www.linkedin.com/company/nexplico/jobs/)
 - ✉️ **Email:** [Contact Form](https://nexplico.com#contact)
 
 ---
